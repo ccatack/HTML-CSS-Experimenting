@@ -2,6 +2,14 @@ body{
     margin: 0;
 }
 
+header{
+    border: 10px solid;
+    border-bottom: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-top-color: #9CABEE;
+}
+
 header img{
     max-width: 100%;
 }
@@ -22,7 +30,7 @@ main p{
     font-size: 25px;
 }
 
-.header{
+.heady{
     text-align: left;
     font-family: 'Zhi Mang Xing', cursive;
     font-size: 65px;
@@ -45,6 +53,11 @@ div.text-wrapper{
 }
 
 footer{
+    border: 10px solid;
+    border-bottom: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-top-color: #9CABEE;
     background-color: #E9A455;
     text-align: right;
     font-family: 'Nanum Myeongjo', serif;
